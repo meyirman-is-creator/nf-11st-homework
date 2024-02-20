@@ -1,0 +1,21 @@
+.fi-rr-search{
+    position: absolute;
+    left: 5px;
+    top: 3px;
+    color: rgb(141, 141, 141);
+}
+.search__bar{
+    border-radius: 10px;
+
+    position: relative;
+    width: 250px;
+    border: 1px solid rgb(141, 141, 141);
+}
+.search__bar-input{
+    border-radius:10px;
+    width: 100%;
+    border: none;
+    outline: none;
+    padding-left:25px;
+    padding-right: 25px;
+}
